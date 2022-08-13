@@ -19,5 +19,6 @@ useHead({
 <div>
 <navbar />
 <me-cards  />
+<github />
 </div>
 </template>
